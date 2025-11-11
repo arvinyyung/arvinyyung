@@ -3,8 +3,9 @@ html {
 } /* alice blue background */
 
 body {
+    color: #3B3B3B;
     margin-bottom: 100px;
-}
+} /* onyx main text color */
 
 a {
     color: #a5b5d2;
